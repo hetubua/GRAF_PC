@@ -1,0 +1,778 @@
+# Translation of Plugins - CartBounty &#8211; Save and recover abandoned carts for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - CartBounty &#8211; Save and recover abandoned carts for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-19 21:59:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - CartBounty &#8211; Save and recover abandoned carts for WooCommerce - Stable (latest release)\n"
+
+#: admin/class-cartbounty-admin.php:946 admin/class-cartbounty-admin.php:1191
+#: admin/class-cartbounty-admin.php:1260
+msgid "Clicks"
+msgstr "Клики"
+
+#: templates/emails/cartbounty-admin-email-notification.php:102
+msgid "Total"
+msgstr "Итого"
+
+#: admin/class-cartbounty-admin.php:1004 admin/class-cartbounty-admin.php:1407
+msgid "Content"
+msgstr "Содержание"
+
+#. translators: %s - Color code
+#: templates/cartbounty-exit-intent.php:37
+msgid "<h2 style=\"color: %s\">%s</h2>"
+msgstr "<h2 style=\"color: %s\">%s</h2>"
+
+#. translators: %s - Color code
+#: templates/cartbounty-exit-intent.php:41
+msgid "<p style=\"color: %s\">%s</p>"
+msgstr "<p style=\"color: %s\">%s</p>"
+
+#: admin/class-cartbounty-admin.php:1104
+msgid "Coupon"
+msgstr "Купон"
+
+#: admin/class-cartbounty-admin.php:752
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s минута"
+msgstr[1] "%s минуты"
+msgstr[2] "%s минут"
+
+#: admin/class-cartbounty-admin.php:758
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s час"
+msgstr[1] "%s часа"
+msgstr[2] "%s часов"
+
+#: admin/class-cartbounty-admin.php:764
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s день"
+msgstr[1] "%s дня"
+msgstr[2] "%s дней"
+
+#: admin/class-cartbounty-admin.php:770
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s неделя"
+msgstr[1] "%s недели"
+msgstr[2] "%s недель"
+
+#: admin/class-cartbounty-admin-table.php:344
+msgid "New"
+msgstr "Добавить"
+
+#: admin/class-cartbounty-admin-table.php:50
+msgid "Status"
+msgstr "Статус"
+
+#: admin/class-cartbounty-admin.php:1144
+msgid "Send"
+msgstr "Отправить"
+
+#: admin/class-cartbounty-admin.php:1303
+msgid "\"From\" name"
+msgstr "Имя \"От кого\""
+
+#: admin/class-cartbounty-admin.php:1136
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: admin/class-cartbounty-admin.php:1307
+msgid "\"From\" email"
+msgstr "Электронная почта \"От\""
+
+#: admin/class-cartbounty-admin.php:989
+msgid "Email subject"
+msgstr "Тема письма"
+
+#: admin/class-cartbounty-admin.php:977
+msgid "Enable email"
+msgstr "Включить e-mail"
+
+#: admin/class-cartbounty-admin.php:1198 admin/class-cartbounty-admin.php:1267
+#: includes/class-cartbounty-wordpress.php:58
+msgid "Disabled"
+msgstr "Отключено"
+
+#: includes/class-cartbounty-wordpress.php:56
+msgid "Active"
+msgstr "Активно"
+
+#: includes/class-cartbounty-status.php:155
+msgid "Automation"
+msgstr "Автоматизация"
+
+#: templates/emails/cartbounty-email-light.php:100
+msgid "Copyright"
+msgstr "Авторское право"
+
+#: templates/cartbounty-exit-intent.php:45
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/class-cartbounty-admin.php:187
+msgid "Copied to clipboard"
+msgstr "Скопировано в буфер обмена"
+
+#: includes/class-cartbounty-status.php:198
+msgid "Active plugins"
+msgstr "Активные плагины"
+
+#: includes/class-cartbounty-status.php:195
+msgid "Plugins"
+msgstr "Плагины"
+
+#: includes/class-cartbounty-status.php:165
+msgid "Environment"
+msgstr "Среда"
+
+#: includes/class-cartbounty-status.php:158
+msgid "Missing hooks"
+msgstr "Отсутствующие крючки"
+
+#: includes/class-cartbounty-status.php:154
+msgid "Saved carts"
+msgstr "Сохраненные корзины"
+
+#: includes/class-cartbounty-status.php:153
+msgid "CartBounty version"
+msgstr "Версия CartBounty"
+
+#: includes/class-cartbounty-status.php:149
+msgid "Default server timezone"
+msgstr "Временная зона по умолчанию сервера"
+
+#: includes/class-cartbounty-status.php:148
+msgid "Language"
+msgstr "Язык"
+
+#: includes/class-cartbounty-status.php:147
+msgid "WordPress cron"
+msgstr "WordPress cron"
+
+#: includes/class-cartbounty-status.php:146
+#: includes/class-cartbounty-status.php:147
+msgid "On"
+msgstr "Вкл."
+
+#: includes/class-cartbounty-status.php:146
+msgid "WordPress debug mode"
+msgstr "WordPress режим отладки"
+
+#: includes/class-cartbounty-status.php:145
+msgid "MySQL Version"
+msgstr "Версия MySQL"
+
+#: includes/class-cartbounty-status.php:143
+msgid "Server info"
+msgstr "Информация о сервере"
+
+#: includes/class-cartbounty-status.php:142
+msgid "WooCommerce version"
+msgstr "Версия WooCommerce"
+
+#: includes/class-cartbounty-status.php:141
+msgid "Yes"
+msgstr "Да"
+
+#: includes/class-cartbounty-status.php:140
+msgid "WordPress version"
+msgstr "Версия WordPress"
+
+#: includes/class-cartbounty-status.php:139
+msgid "Site address (URL)"
+msgstr "Адрес сайта (URL)"
+
+#: includes/class-cartbounty-status.php:138
+msgid "WordPress address (URL)"
+msgstr "Адрес WordPress (URL)"
+
+#: includes/class-cartbounty-status.php:127
+msgid "version"
+msgstr "версия"
+
+#: includes/class-cartbounty-status.php:127
+msgid "by"
+msgstr "от"
+
+#: includes/class-cartbounty-status.php:95
+msgid "Notification frequency"
+msgstr "Частота уведомления"
+
+#: includes/class-cartbounty-status.php:86
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+#: admin/class-cartbounty-admin.php:2385
+#: includes/class-cartbounty-status.php:53
+#: includes/class-cartbounty-wordpress.php:191
+#: includes/class-cartbounty-wordpress.php:228
+msgid "Looks like you are not allowed to do this."
+msgstr "Извините, вам не разрешено выполнять данное действие."
+
+#: admin/class-cartbounty-admin.php:200 admin/class-cartbounty-admin.php:204
+msgid "Suggest a feature"
+msgstr "Предложить функцию"
+
+#: admin/class-cartbounty-admin.php:187
+msgid "View FAQ"
+msgstr "Посмотреть ЧаВо"
+
+#: admin/class-cartbounty-admin.php:187
+msgid "Copy system report"
+msgstr "Скопировать системный отчет"
+
+#: admin/class-cartbounty-admin.php:191
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: admin/class-cartbounty-admin.php:196
+msgid "Have a new feature in mind? That's awesome!"
+msgstr "Вы придумали новую функцию? Это потрясающе!"
+
+#. translators: %s - Plugin name
+#: admin/class-cartbounty-admin.php:199
+msgid "We always welcome suggestions from our users and will evaluate each new idea to improve %s. In fact, many of the features you are currently using have arrived from users like yourself."
+msgstr "Мы всегда рады предложениям наших пользователей и оценим каждую новую идею для улучшения %s. Кстати, многие функции, которые вы сейчас используете, были посоветованы такими же пользователями, как вы. "
+
+#: admin/class-cartbounty-admin.php:187
+msgid "Get support"
+msgstr "Обратиться за помощью"
+
+#: admin/class-cartbounty-admin.php:1966
+msgid "Done"
+msgstr "Готово"
+
+#: includes/class-cartbounty-status.php:141
+msgid "WordPress multisite"
+msgstr "WordPress режим сети"
+
+#: includes/class-cartbounty-status.php:144
+msgid "PHP version"
+msgstr "PHP версии"
+
+#: admin/class-cartbounty-admin.php:179
+msgid "Need help or support?"
+msgstr "Нужна помощь или поддержка?"
+
+#: admin/class-cartbounty-admin.php:379
+msgid "Select none"
+msgstr "Отменить выбор"
+
+#: admin/class-cartbounty-admin.php:378
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: admin/class-cartbounty-admin.php:376
+msgid "Exclude from all countries except these"
+msgstr "Исключить из всех стран, кроме этих"
+
+#: admin/class-cartbounty-admin.php:1690
+msgid "Get Pro to enable"
+msgstr "Приобрестить Про"
+
+#. translators: %s - URL link tags
+#: admin/class-cartbounty-admin.php:3124
+msgid "Please consider upgrading to %sCartBounty Pro%s to enable this feature."
+msgstr "Обновите на %sCartBounty Pro%s, чтобы включить эту функцию."
+
+#: admin/class-cartbounty-admin.php:1671
+msgid "Enable test mode to see how the Early capture looks like."
+msgstr "Включите тестовый режим, чтобы увидеть, как выглядит запрос Раннего захвата."
+
+#: admin/class-cartbounty-admin.php:1639 admin/class-cartbounty-admin.php:1646
+msgid "Popup overlay"
+msgstr "Всплывающее окно"
+
+#: admin/class-cartbounty-admin.php:1632
+msgid "Next to button"
+msgstr "Рядом с кнопкой"
+
+#: admin/class-cartbounty-admin.php:1607
+msgid "Adjust the visual appearance of your Early capture request."
+msgstr "Настройте внешний вид Раннего захвата."
+
+#: admin/class-cartbounty-admin.php:1564
+msgid "Enable Early capture"
+msgstr "Включить Ранний захват"
+
+#: admin/class-cartbounty-admin.php:1584
+msgid "Choose which input field should be collected in the request."
+msgstr "Выберите, какое поле ввода следует показать в запросе."
+
+#: admin/class-cartbounty-admin.php:1577
+msgid "Your guest visitors will not be able to add anything to their carts until a valid email or phone is provided."
+msgstr "Неавторизованные посетители не смогут добавить ничего в свою корзины, пока не будет предоставлен адрес эл. почты или номер телефона."
+
+#: admin/class-cartbounty-admin.php:1574
+msgid "Enable mandatory input"
+msgstr "Включить обязательный ввод"
+
+#: admin/class-cartbounty-admin.php:1555
+msgid "Enable email or phone request before adding an item to the cart."
+msgstr "Включите запрос эл. почты или номера телефона, прежде чем добавлять товар в корзину. "
+
+#: admin/class-cartbounty-admin.php:1384 admin/class-cartbounty-admin.php:1582
+msgid "Field type"
+msgstr "Тип поля"
+
+#: admin/class-cartbounty-admin.php:1362
+msgid "Enable email or phone request before leaving your store."
+msgstr "Включите запрос эл. почты или телефона, прежде чем покинуть магазин."
+
+#: admin/class-cartbounty-admin.php:1386
+msgid "Choose which input field should be collected in the popup."
+msgstr "Выберите, какое поле ввода следует показать в запросе."
+
+#: admin/class-cartbounty-admin.php:839
+msgid "Early capture"
+msgstr "Ранний захват"
+
+#: templates/cartbounty-exit-intent.php:44
+msgid "Enter your email"
+msgstr "Введите эл. почту"
+
+#: admin/class-cartbounty-admin.php:1733
+msgid "Connected"
+msgstr "Подключен"
+
+#. translators: %s - Gets replaced by an integration name, e.g. MailChimp
+#: admin/class-cartbounty-admin.php:1714
+msgid "Not so fast, sailor! You must enable WooCommerce before we can set sail or this %s boat gets us nowhere."
+msgstr "Не так быстро, матрос! Вы должны включить WooCommerce, прежде чем мы сможем отправиться в плавание, иначе лодка %s ни к чему не приведет."
+
+#: admin/class-cartbounty-admin.php:1730
+#: includes/class-cartbounty-status.php:83
+msgid "Enabled"
+msgstr "Включить"
+
+#: admin/class-cartbounty-admin.php:1069 admin/class-cartbounty-admin.php:1467
+#: admin/class-cartbounty-admin.php:1652
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/class-cartbounty-admin.php:1423 admin/class-cartbounty-admin.php:1612
+msgid "Style"
+msgstr "Стиль"
+
+#: admin/class-cartbounty-admin.php:1013 admin/class-cartbounty-admin.php:1416
+#: admin/class-cartbounty-admin.php:1605
+msgid "Appearance"
+msgstr "Отображение"
+
+#: admin/class-cartbounty-admin.php:1487
+msgid "Custom image"
+msgstr "Произвольное изображение"
+
+#: admin/class-cartbounty-admin.php:484 admin/class-cartbounty-admin.php:1507
+#: admin/class-cartbounty-admin.php:1669
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: admin/class-cartbounty-admin.php:431
+msgid "Enable reCAPTCHA v3"
+msgstr "Включить reCAPTCHA v3"
+
+#: admin/class-cartbounty-admin.php:418
+msgid "Protection"
+msgstr "Защита"
+
+#: admin/class-cartbounty-admin.php:395
+msgid "Admin email"
+msgstr "Эл. почта администратора"
+
+#: admin/class-cartbounty-admin.php:360
+msgid "Ghost carts"
+msgstr "Неизвестные корзины"
+
+#: admin/class-cartbounty-admin.php:316 admin/class-cartbounty-admin.php:614
+msgid "Tools"
+msgstr "Инструменты"
+
+#: admin/class-cartbounty-admin.php:665
+msgid "All tools"
+msgstr "Все инструменты"
+
+#: admin/class-cartbounty-admin.php:662
+msgid "All integrations"
+msgstr "Все интеграции"
+
+#: admin/class-cartbounty-admin.php:1489
+msgid "Recommended dimensions:"
+msgstr "Рекомендуемые размеры:"
+
+#: admin/class-cartbounty-admin.php:280 admin/class-cartbounty-admin.php:324
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/class-cartbounty-admin.php:278
+msgid "Connect"
+msgstr "Подключить"
+
+#: admin/class-cartbounty-admin.php:270 admin/class-cartbounty-admin.php:613
+msgid "Recovery"
+msgstr "Восстановление"
+
+#: admin/class-cartbounty-admin.php:486
+msgid "Other settings that may be useful."
+msgstr "Другие настройки, которые могут быть полезны."
+
+#: admin/class-cartbounty-admin.php:402
+msgid "Check for new abandoned carts"
+msgstr "Проверка новых брошенных корзин"
+
+#: admin/class-cartbounty-admin.php:398
+msgid "You can add multiple emails separated by a comma."
+msgstr "Вы можете добавить несколько адресов эл. почты через запятую."
+
+#: admin/class-cartbounty-admin.php:521
+msgid "This will only affect how abandoned cart contents are displayed in the Abandoned carts tab."
+msgstr "Это повлияет только на то, как содержимое брошенной корзины отображается в списке брошенных корзин."
+
+#: admin/class-cartbounty-admin.php:390
+msgid "Receive email notifications about newly abandoned carts. Please note, that you will not get emails about ghost carts."
+msgstr "Получайте уведомления о брошенных корзин в эл. почте. Обратите внимание, что вы не будете получать эл. письма о неизвестных корзин."
+
+#: admin/class-cartbounty-admin.php:362
+msgid "Ghost carts are carts that can’t be identified since the visitor has not provided neither email nor phone number."
+msgstr "Неизвестные корзины  - это корзины, которых невозможно идентифицировать, поскольку посетитель не указал адрес своей эл. почты или номер своево телефона."
+
+#: admin/class-cartbounty-admin.php:317
+msgid "Here you will find some special tools that will enable you to discover even more bounty. Increase your chances of getting more recoverable abandoned carts. You can enable one or all of them, just make sure not to overwhelm your visitors with information :)"
+msgstr "Здесь вы найдете несколько специальных инструментов, которые позволят вам обнаружить еще больше сокровищей. Увеличьте ваши шансы сохранить больше брошенных корзин, которых можно восстановить. Вы можете включить один или всех, только постарайтесь не перегружать посетителей информацией :)"
+
+#: admin/class-cartbounty-admin.php:282
+msgid "Get Pro to connect"
+msgstr "Приобрестить Про"
+
+#: admin/class-cartbounty-admin.php:322
+msgid "Enable"
+msgstr "Включение"
+
+#: admin/class-cartbounty-admin.php:388
+msgid "Notifications"
+msgstr "Оповещения"
+
+#: admin/class-cartbounty-admin.php:963 admin/class-cartbounty-admin.php:1360
+#: admin/class-cartbounty-admin.php:1553
+msgid "General"
+msgstr "Основные"
+
+#: admin/class-cartbounty-admin.php:1418
+msgid "Adjust the visual appearance of your Exit Intent popup."
+msgstr "Настройте внешний вид Намерение выхода всплывающего окна."
+
+#: admin/class-cartbounty-admin.php:1378
+msgid "Enable mobile Exit Intent"
+msgstr "Включить Намерение выхода в мобильном"
+
+#: admin/class-cartbounty-admin.php:1509
+msgid "Enable test mode to see how the Exit Intent popup looks like."
+msgstr "Включите тестовый режим, чтобы увидеть, как выглядит всплывающее окно при намерении выхода."
+
+#: admin/class-cartbounty-admin-table.php:117
+msgid "View user profile"
+msgstr "Посмотреть профиль"
+
+#: admin/class-cartbounty-admin.php:162
+msgid "Carts per page: "
+msgstr "Корзин на страницу:"
+
+#: admin/class-cartbounty-admin.php:2883
+#: includes/class-cartbounty-status.php:71
+msgid "Ghost"
+msgstr "Неизвестные"
+
+#: admin/class-cartbounty-admin.php:2881
+msgid "All"
+msgstr "Все"
+
+#: admin/class-cartbounty-admin.php:372 includes/class-cartbounty-status.php:90
+msgid "Exclude ghost carts"
+msgstr "Исключить неизвестных корзин"
+
+#: admin/class-cartbounty-admin.php:2882
+#: includes/class-cartbounty-status.php:68
+msgid "Recoverable"
+msgstr "Восстанавливаемые"
+
+#: admin/class-cartbounty-admin.php:1496
+msgid "Add a custom image"
+msgstr "Добавить произвольное изображение"
+
+#. translators: %1$s - Time, e.g. 1 minute, 5 hours
+#: admin/class-cartbounty-admin-table.php:306
+msgid "%1$s ago"
+msgstr "%1$s назад"
+
+#: admin/class-cartbounty-admin.php:519
+msgid "Display abandoned cart contents in a list"
+msgstr "Отображать содержимое брошенных корзин в виде списка"
+
+#: admin/class-cartbounty-admin.php:1865
+msgid "WP Cron has been disabled. Several WordPress core features, such as checking for updates or sending notifications utilize this function. Please enable it or contact your system administrator to help you with this."
+msgstr "WP Cron отключен. Несколько основных функций WordPress, таких как проверка обновлений или отправка сообщений, используют эту функцию. Пожалуйста, включите ее или обратитесь к системному администратору, чтобы помочь вам в этом."
+
+#: admin/class-cartbounty-admin.php:727
+msgid "Disable notifications"
+msgstr "Выключить уведомления"
+
+#: admin/class-cartbounty-admin.php:726
+msgid "Once every 2 days"
+msgstr "Раз в 2 дня"
+
+#: admin/class-cartbounty-admin.php:725
+msgid "Once a day"
+msgstr "Раз в день"
+
+#: admin/class-cartbounty-admin.php:724
+msgid "Twice a day"
+msgstr "Два раза в день"
+
+#: admin/class-cartbounty-admin.php:718
+msgid "Every hour"
+msgid_plural "Every %s hours"
+msgstr[0] "Каждый час"
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/class-cartbounty-admin.php:615 admin/class-cartbounty-admin.php:2147
+#: includes/class-cartbounty-status.php:157
+msgid "Settings"
+msgstr "Настройки"
+
+#. Plugin URI of the plugin
+msgid "https://www.cartbounty.com"
+msgstr "https://www.cartbounty.com"
+
+#: admin/class-cartbounty-admin.php:497
+msgid "You could increase the chances of saving recoverable abandoned carts by moving the email field to the top of your checkout form."
+msgstr "Вы могли бы увеличить шансы сохранение брошенных корзин, подняв поле электронной почты в верхнюю часть формы оформления заказа."
+
+#: admin/class-cartbounty-admin.php:498
+msgid "Please test the checkout after enabling this, as sometimes it can cause issues or not raise the field if you have a custom checkout."
+msgstr "Пожалуйста, проверьте форму оформления заказа после включения этой функции, так как иногда это может создать проблемы или не поднять поле."
+
+#: admin/class-cartbounty-admin.php:495
+#: includes/class-cartbounty-status.php:102
+msgid "Lift email field"
+msgstr "Поднять поле эл. почты"
+
+#. translators: %s - Cron event name
+#: admin/class-cartbounty-admin.php:1852
+msgid "It seems that WP Cron event <strong>%s</strong> required for automation is not scheduled."
+msgid_plural "It seems that WP Cron events <strong>%s</strong> required for automation are not scheduled."
+msgstr[0] "Похоже, что WP Cron событие <strong>%s</strong>, необходимое для автоматизации плагина, не установлено."
+msgstr[1] "Похоже, что WP Cron события <strong>%s</strong>, необходимые для автоматизации плагина, не установлены."
+msgstr[2] "Похоже, что WP Cron события <strong>%s</strong>, необходимые для автоматизации плагина, не установлены."
+
+#: admin/class-cartbounty-admin.php:2297 admin/class-cartbounty-admin.php:2316
+msgid "Not now"
+msgstr "Не сейчас"
+
+#: admin/class-cartbounty-admin.php:1969 admin/class-cartbounty-admin.php:2281
+#: admin/class-cartbounty-admin.php:3446 admin/class-cartbounty-admin.php:3467
+#: includes/class-cartbounty-wordpress.php:568
+msgid "Close"
+msgstr "Закрыть"
+
+#: admin/class-cartbounty-admin.php:2280
+msgid "Done that"
+msgstr "Сделано"
+
+#: admin/class-cartbounty-admin.php:2599
+msgid "Fantastic!"
+msgstr "Фантастика!"
+
+#: admin/class-cartbounty-admin.php:2591
+msgid "Incredible!"
+msgstr "Невероятно!"
+
+#: admin/class-cartbounty-admin.php:2587
+msgid "Amazing!"
+msgstr "Удивительно!"
+
+#: admin/class-cartbounty-admin.php:2583
+msgid "Awesome!"
+msgstr "Потрясающие!"
+
+#: admin/class-cartbounty-admin.php:2579
+msgid "Congrats!"
+msgstr "Ничего себе!"
+
+#: admin/class-cartbounty-admin.php:2595
+msgid "Crazy!"
+msgstr "Чудесно!"
+
+#: admin/class-cartbounty-admin.php:575
+msgid "Looks like you do not have any saved Abandoned carts yet.<br/>But do not worry, as soon as someone fills the <strong>Email</strong> or <strong>Phone number</strong> fields of your WooCommerce Checkout form and abandons the cart, it will automatically appear here."
+msgstr "Похоже, у вас еще нет сохраненных брошенных корзин.<br/>Но не волнуйтесь, как только кто-то заполнит <strong>Эл. почту</strong> или <strong>Телефон</strong> в вашей форме и бросит корзину, он автоматически появится здесь."
+
+#: admin/class-cartbounty-admin-table.php:46
+msgid "Location"
+msgstr "Местоположение"
+
+#: admin/class-cartbounty-admin.php:2603
+msgid "Insane!"
+msgstr "Безумие!"
+
+#: admin/class-cartbounty-admin.php:2294
+msgid "Use your time wisely by enabling Pro features and increase your sales."
+msgstr "Используйте свое время мудро! Включите функции Про и увеличьте свои продажи."
+
+#: admin/class-cartbounty-admin.php:2265 admin/class-cartbounty-admin.php:2277
+msgid "If you like our plugin, please leave us a 5-star rating. It is the easiest way to help us grow and keep evolving further."
+msgstr "Если вам нравится наш плагин, пожалуйста, оставьте нам 5-звездочный рейтинг. Это самый простой способ как помочь нам расти и развиваться дальше."
+
+#: admin/class-cartbounty-admin.php:2279
+msgid "Leave a 5-star rating"
+msgstr "Оставить 5-звездочный рейтинг"
+
+#: admin/class-cartbounty-admin.php:531 admin/class-cartbounty-admin.php:1319
+#: admin/class-cartbounty-admin.php:1530
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: admin/class-cartbounty-admin.php:1476 admin/class-cartbounty-admin.php:1661
+msgid "Inverse:"
+msgstr "Инверсный:"
+
+#: admin/class-cartbounty-admin.php:1074 admin/class-cartbounty-admin.php:1472
+#: admin/class-cartbounty-admin.php:1657
+msgid "Main:"
+msgstr "Основной:"
+
+#: admin/class-cartbounty-admin.php:1454 admin/class-cartbounty-admin.php:1461
+msgid "Fullscreen"
+msgstr "Полноэкранный"
+
+#: admin/class-cartbounty-admin.php:1044 admin/class-cartbounty-admin.php:1059
+#: admin/class-cartbounty-admin.php:1214 admin/class-cartbounty-admin.php:1283
+#: admin/class-cartbounty-admin.php:1443 admin/class-cartbounty-admin.php:1457
+#: admin/class-cartbounty-admin.php:1628 admin/class-cartbounty-admin.php:1642
+#: admin/class-cartbounty-admin.php:2155 admin/class-cartbounty-admin.php:2296
+#: admin/class-cartbounty-admin.php:2315 admin/class-cartbounty-admin.php:3445
+#: admin/class-cartbounty-admin.php:3466
+msgid "Get Pro"
+msgstr "Получить Про"
+
+#: admin/class-cartbounty-admin.php:1043 admin/class-cartbounty-admin.php:1058
+#: admin/class-cartbounty-admin.php:1442 admin/class-cartbounty-admin.php:1456
+#: admin/class-cartbounty-admin.php:1627 admin/class-cartbounty-admin.php:1641
+msgid "Upgrade to enable this style"
+msgstr "Обновите, чтобы включить этот стиль"
+
+#: admin/class-cartbounty-admin.php:612
+msgid "Abandoned carts"
+msgstr "Брошенные корзины"
+
+#: admin/class-cartbounty-admin.php:102 admin/class-cartbounty-admin.php:104
+#: admin/class-cartbounty-admin.php:135
+msgid "CartBounty Abandoned carts"
+msgstr "CartBounty брошенные корзины"
+
+#. Description of the plugin
+msgid "Save abandoned carts by instantly capturing WooCommerce checkout form before submission."
+msgstr "Сохраните брошенные корзины, мгновенно сохраняя данные со страницы оформления заказа WooCommerce до их отправки."
+
+#. Plugin Name of the plugin
+msgid "CartBounty - Save and recover abandoned carts for WooCommerce"
+msgstr "CartBounty - Сохраните и восстановите брошенные корзины WooCommerce"
+
+#. translators: %s - Gets replaced by an excitement word e.g. Awesome!, %d -
+#. Abandoned cart count
+#: admin/class-cartbounty-admin.php:2276
+msgid "%s You have already captured %d abandoned cart!"
+msgid_plural "%s You have already captured %d abandoned carts!"
+msgstr[0] "%s Вы уже сохранили %d брошенную корзину!"
+msgstr[1] "%s Вы уже сохранили %d брошенные корзины!"
+msgstr[2] "%s Вы уже сохранили %d брошенных корзин!"
+
+#: admin/class-cartbounty-admin.php:1469 admin/class-cartbounty-admin.php:1654
+msgid "If you leave the Inverse color empty, it will automatically use the inverse color of the main color you have picked. Clear both colors to use the default colors."
+msgstr "Если вы оставите Инверсный цвет пустым, тогда будет автоматически использован инверсный цвет основного цвета, который вы выбрали. Очистите оба цвета, чтобы использовать цвета по умолчанию."
+
+#: admin/class-cartbounty-admin.php:1518 admin/class-cartbounty-admin.php:1680
+msgid "Enable test mode"
+msgstr "Включить тестовый режим"
+
+#: admin/class-cartbounty-admin.php:1429 admin/class-cartbounty-admin.php:1433
+msgid "Appear in center"
+msgstr "Появиться в центре"
+
+#: admin/class-cartbounty-admin.php:1440 admin/class-cartbounty-admin.php:1447
+msgid "Slide in from left"
+msgstr "Появиться слева"
+
+#: admin/class-cartbounty-admin.php:833
+#: includes/class-cartbounty-status.php:156
+msgid "Exit Intent"
+msgstr "Намерение выхода"
+
+#: admin/class-cartbounty-admin.php:1371
+msgid "Enable Exit Intent"
+msgstr "Включить намерение выхода"
+
+#: admin/class-cartbounty-admin-table.php:100
+#: admin/class-cartbounty-admin-table.php:380
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/class-cartbounty-admin-table.php:48
+msgid "Cart total"
+msgstr "Всего в корзине"
+
+#: admin/class-cartbounty-admin-table.php:45
+#: admin/class-cartbounty-admin.php:1394 admin/class-cartbounty-admin.php:1592
+#: templates/emails/cartbounty-admin-email-notification.php:101
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/class-cartbounty-admin-table.php:47
+msgid "Cart contents"
+msgstr "Содержимое корзины"
+
+#: admin/class-cartbounty-admin-table.php:49
+msgid "Time"
+msgstr "Время"
+
+#: admin/class-cartbounty-admin-table.php:42
+msgid "ID"
+msgstr "ID"
+
+#: admin/class-cartbounty-admin.php:228
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: admin/class-cartbounty-admin-table.php:43
+msgid "Name, Surname"
+msgstr "ФИО"
+
+#. Author URI of the plugin
+msgid "http://www.majas-lapu-izstrade.lv/en"
+msgstr "http://www.majas-lapu-izstrade.lv/en"
+
+#. Author of the plugin
+msgid "Streamline.lv"
+msgstr "Streamline.lv"
+
+#. translators: %d - Item count
+#: admin/class-cartbounty-admin.php:562
+msgid "Items deleted: %d"
+msgstr "%d запись удалена"
+
+#: admin/class-cartbounty-admin-table.php:44
+#: admin/class-cartbounty-admin.php:1390 admin/class-cartbounty-admin.php:1588
+#: includes/class-cartbounty-status.php:99
+#: templates/emails/cartbounty-admin-email-notification.php:100
+msgid "Email"
+msgstr "Email"

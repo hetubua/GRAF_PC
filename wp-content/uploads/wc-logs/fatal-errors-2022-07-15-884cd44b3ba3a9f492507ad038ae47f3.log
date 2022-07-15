@@ -1,0 +1,32 @@
+2022-07-15T03:19:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/modules/module-extras.php на строке 74
+
+2022-07-15T03:19:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:19:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:20:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:20:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php на строке 90
+
+2022-07-15T03:22:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/class.jetpack.php на строке 1872
+
+2022-07-15T03:24:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/mailpoet/vendor/composer/ClassLoader.php на строке 292
+
+2022-07-15T03:28:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1400832 bytes) в /home/i/ilyaveregi/public_html/wp-content/plugins/jetpack/class.jetpack.php на строке 1872
+
